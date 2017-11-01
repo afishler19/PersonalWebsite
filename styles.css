@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family:Arial;
+    background-color: blue;
+    color: purple;
+    
+}
+img{
+    width: 500px;
+    margin: 8px;
+}
+ol{ 
+    text-align: left;
+} 
+#footer {
+    border-bottom: 1px #ccc solid;
+}
